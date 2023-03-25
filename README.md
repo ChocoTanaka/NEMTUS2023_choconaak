@@ -1,5 +1,5 @@
 # NEMTUS2023_choconaak
 
-read
+**Read**
 
-[Guide](Symbol Authenticater.pdf)
+(Symbol Authenticater.pdf)
